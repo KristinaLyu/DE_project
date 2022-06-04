@@ -1,6 +1,6 @@
 # Задание для модуля 2
 
-## Установка БД
+Скрипты и запросы для БД PostgreSQL, SQL клиент DBeaver 22.0.5
 
 ## [Скрипты загрузки данных в БД, создание таблиц](https://github.com/KristinaLyu/DE_project/tree/main/DE-101/Module2/Downloading_tables)
 

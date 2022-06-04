@@ -4,7 +4,7 @@
 
 ## [Скрипты загрузки данных в БД, создание таблиц](https://github.com/KristinaLyu/DE_project/tree/main/DE-101/Module2/Downloading_tables)
 
-## SQL запросы
+## [SQL запросы](https://github.com/KristinaLyu/DE_project/blob/main/DE-101/Module2/query.sql)
 
 ## Модель данных в SQLdbm
 
